@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Zulaikha Afzal</h1>
 <h3 align="center">Data Science, Machine Learning and Deep Learning Expert</h3>
 
-<img align = "right" alt="coding",width="400", src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40jyotibalodhi%2Fprogrammer-or-not-345df8ab4dbc&psig=AOvVaw1N8Ttrf2XdmvC5UPXacFky&ust=1711186657169000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjPvZvJh4UDFQAAAAAdAAAAABAK">
+<img align ="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=z-bintyafzal&label=Profile%20views&color=0e75b6&style=flat" alt="z-bintyafzal" /> </p>
 
