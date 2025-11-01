@@ -1,4 +1,4 @@
-![banner]<img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/489260dd-0f8a-4f04-b135-3446c053650a" />
+<img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/489260dd-0f8a-4f04-b135-3446c053650a" />
 )
 
 <h1 align="center">Hi, I'm <strong>Zulaikha Afzal</strong></h1>
