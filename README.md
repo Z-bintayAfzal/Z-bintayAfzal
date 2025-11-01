@@ -7,20 +7,12 @@
 <p align="center">
 Pakistan • Remote  
 <br>
-Phone: +92-342-6133247  
-Email: zbintyafzal@gmail.com  
+zbintyafzal@gmail.com  
 </p>
-
 <p align="center">
-<a href="https://linkedin.com/in/zulaikha-afzal" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
-</a>
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
-</a>
-<a href="https://echo-prompt-generator.lovable.app/?utm_source=lovable-editor#projects" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Website_icon.png" alt="Portfolio" width="40" height="40"/>
-</a>
+<a href="https://linkedin.com/in/zulaikha-afzal" target="_blank">LinkedIn</a> • 
+<a href="https://leetcode.com/" target="_blank">LeetCode</a> • 
+<a href="https://echo-prompt-generator.lovable.app/?utm_source=lovable-editor#projects" target="_blank">Portfolio</a> • 
 </p>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
@@ -37,13 +29,12 @@ I specialize in designing AI solutions, LLM integrations, full-stack web applica
 ---
 
 ## Achievements
-- Participated in multiple international AI hackathons (Lablab.ai, Devpost, Kaggle)  
+- Participated in multiple international hackathons   
 - Awarded **Best Teacher Award** at Government Graduate College for achieving 100% results  
 - Earned a programming trophy as Team Head at UOG (2023–2024)  
 - Delivered a talk: **“Bridging the Gap: From Coding Basics to Real-World Solutions”**
 
 ---
-
 ## Technical Skills
 
 **Programming Languages:** C, C++, Java, Python, JavaScript  
@@ -73,7 +64,7 @@ Relevant coursework: Machine Learning, Deep Learning, Artificial Intelligence, S
 ## Professional Experience
 
 **Lecturer — Government Graduate College**  
-Nov 2024 – Oct 2025 | M.B. Din, Pakistan  
+Nov 2024 – Present | M.B. Din, Pakistan  
 - Taught DSA, AI, Enterprise Systems, Software Engineering, Project Management, Web Technologies, and Professional Practice  
 - Mentored 500+ students with an average GPA above 3.5  
 
@@ -158,6 +149,4 @@ Python (Django, TensorFlow, Keras, Scikit-learn, OpenCV)
 **Fitness Watch Data Analysis**  
 Python (Pandas, Plotly, NumPy)  
 - Analyzed Apple Fitness data and built dashboards to track performance  
----
-## References
-Available upon request
+
