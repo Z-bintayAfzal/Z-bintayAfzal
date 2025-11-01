@@ -1,4 +1,5 @@
-![banner](https://github.com/Z-bintayAfzal/Z-bintayAfzal/blob/main/bannar.png)
+![banner]<img width="1584" height="396" alt="1" src="https://github.com/user-attachments/assets/489260dd-0f8a-4f04-b135-3446c053650a" />
+)
 
 <h1 align="center">Hi, I'm <strong>Zulaikha Afzal</strong></h1>
 <h3 align="center">Lecturer • Machine Learning Engineer</h3>
@@ -11,9 +12,15 @@ Email: zbintyafzal@gmail.com
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/zulaikha-afzal">LinkedIn</a> • 
-<a href="#">LeetCode</a> • 
-<a href="https://echo-prompt-generator.lovable.app/?utm_source=lovable-editor#projects">Portfolio</a>
+<a href="https://linkedin.com/in/zulaikha-afzal" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="https://leetcode.com/" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="40" height="40"/>
+</a>
+<a href="https://echo-prompt-generator.lovable.app/?utm_source=lovable-editor#projects" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Website_icon.png" alt="Portfolio" width="40" height="40"/>
+</a>
 </p>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
@@ -95,8 +102,8 @@ Oct 2022 – Jul 2023
 
 **Trainer / Moderator — iCodeGuru**  
 Apr 2025 – Present | Remote  
-- Conducted training sessions for Duolingo English Proficiency Test  
-- Assisted students in learning Python  
+- Conducted Duolingo English Test training  
+- Assisted students in Python  
 
 **Python Instructor — Daska High School**  
 Oct 2025 – Present | Daska, Pakistan  
@@ -151,15 +158,6 @@ Python (Django, TensorFlow, Keras, Scikit-learn, OpenCV)
 **Fitness Watch Data Analysis**  
 Python (Pandas, Plotly, NumPy)  
 - Analyzed Apple Fitness data and built dashboards to track performance  
-
 ---
-
-## CV / Resume
-**LinkedIn:** https://linkedin.com/in/zulaikha-afzal  
-**LeetCode:** https://leetcode.com/  
-**Portfolio:** https://echo-prompt-generator.lovable.app/?utm_source=lovable-editor#projects  
-
----
-
 ## References
 Available upon request
